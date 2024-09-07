@@ -19,10 +19,11 @@ You can install the required packages using pip:
 
 ```bash
 pip install numpy pandas matplotlib tensorflow scikit-learn yfinance
+```
 
 ## Results
 
--Training and Validation Loss Graph: Shows the loss over epochs for both training and validation sets.
--Historical Data and Prediction Graph: Displays actual and predicted stock prices over time.
+-**Training and Validation Loss Graph**: Shows the loss over epochs for both training and validation sets.
+-**Historical Data and Prediction Graph**: Displays actual and predicted stock prices over time.
 
 
